@@ -6,8 +6,10 @@
 🔬 Recently completed my Master's in Computer Science (Machine Learning & Cybersecurity) <br/>
 🌊 Worked on phytoplankton classification using Few-Shot Open-Set Learning <br/>
 🌍 Passionate about using technology to address climate change <br/>
-📚 Love teaching - facilitated courses on Python, Database Systems and Web Development <br/>
-🎯 Currently working on personal projects that I've been meaning to work on for so long
+🐦 Bird nerd & trail enthusiast <br/>
+🎯 Finally tackling my "someday I'll build this" project graveyard
+
+2026 mission: Turn my GitHub into a satisfying green grid + to exercise more 💃 
 
 ### Tech Stack
 <hr>
