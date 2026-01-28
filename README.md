@@ -9,6 +9,8 @@
 🐦 Bird nerd & trail enthusiast <br/>
 🎯 Finally tackling my "someday I'll build this" project graveyard
 
+I know it sounds cliche, but I'd say I'm someone with a lot of grit. I really believe that if you show up and put in the work every single day, you can reach pretty much any goal you set for yourself over time
+
 2026 mission: Turn my GitHub into a satisfying green grid + to exercise more 💃 
 
 ### Tech Stack
